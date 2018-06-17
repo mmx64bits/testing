@@ -2,7 +2,9 @@
 import os
 
 def welcome():
+    print('------------')
     print('Hello there!')
+    print('------------')
 
 if __name__ == '__main__':
     welcome()
