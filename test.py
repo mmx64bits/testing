@@ -8,4 +8,7 @@ def welcome():
 
 if __name__ == '__main__':
     welcome()
+    for i in range(11):
+        print('*' * i)
+
     os.system('PAUSE')
